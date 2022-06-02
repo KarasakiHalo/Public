@@ -19,7 +19,7 @@
 
 ### 引用
 >Markdown（マークダウン）は、文書を記述するための軽量マークアップ言語のひとつである。  
-[Wiki:Markdown](https://ja.wikipedia.org/wiki/Markdown):Wikipedia,Markdownのページ
+[Wiki:Markdown](https://ja.wikipedia.org/wiki/Markdown): Wikipedia, Markdownに関するページ
 
 
 #### 強調
